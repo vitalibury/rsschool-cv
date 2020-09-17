@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School CV(2020Q3)
+https://vitalibury.github.io/rsschool-cv/cv
