@@ -13,7 +13,7 @@ to secure and developed country. I'm ready to learn new things and I have persev
 ◾◾◾◾◽Photoshop  
 ## Courses:
 **2019-2020**  
-:   Selfeducation: **HTML/ CSS/ JS Basics**
+Selfeducation: **HTML/ CSS/ JS Basics**
 ## Code example:
 ```
 function cake(x, y){
