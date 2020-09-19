@@ -1,1 +1,1 @@
-https://vitalibury.github.io/rsschool-cv/cv
+https://vitalibury.github.io/rsschool-cv/
